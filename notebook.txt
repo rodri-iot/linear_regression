@@ -1,0 +1,4 @@
+echo -e ".ven\n .env" > .gitignore
+
+# Installations
+pip install ipykernel nbformat pandas seaborn scikit-learn
